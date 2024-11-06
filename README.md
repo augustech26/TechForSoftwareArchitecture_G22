@@ -48,3 +48,30 @@ Editing and Proofreading:
 
 This final section focuses on refining drafts through revision and proofreading to ensure clarity, coherence, and correctness.
 Students are taught self-editing strategies and are encouraged to peer-review, focusing on grammar, punctuation, style consistency, and formatting.
+
+### MODULE III: SOFTWARE DESIGN PATTERNS
+
+This module explores software design patterns—reusable solutions to common design challenges in software development. It aims to help students understand, identify, and apply these patterns in practical scenarios, ultimately improving software structure, maintainability, and scalability. Key areas covered include:
+
+Introduction to Design Patterns:
+
+Students are introduced to the concept of design patterns, which are essentially best practices for solving recurring design problems in software architecture.
+Emphasis is placed on the origins and purpose of design patterns, exploring how they promote code reusability and flexibility. The module might touch upon the influential work “Design Patterns: Elements of Reusable Object-Oriented Software” by the “Gang of Four” (GoF), which established many foundational design patterns still in use today.
+Categories of Design Patterns:
+
+This module covers the three primary types of design patterns:
+Creational Patterns: These focus on object creation, allowing developers to handle object instantiation flexibly and efficiently. Examples include the Singleton, Factory, and Builder patterns.
+Structural Patterns: These patterns help organize classes and objects into larger structures, enhancing code modularity. Examples include Adapter, Composite, and Decorator patterns.
+Behavioral Patterns: These focus on communication and interaction between objects, streamlining complex flows in a program. Examples include the Observer, Strategy, and Command patterns.
+Benefits and Challenges of Using Design Patterns:
+
+The module explores the advantages of using design patterns, such as reducing code duplication, enhancing team communication, and improving code readability.
+It also addresses potential challenges, like overusing patterns or choosing inappropriate ones, which can lead to over-complicated designs.
+Practical Applications and Real-World Scenarios:
+
+Each pattern is contextualized with examples and use cases. Students learn to identify when a particular pattern is suitable and how to implement it effectively.
+The module may include hands-on exercises or case studies where students apply patterns to solve typical design problems, solidifying their understanding through real-world scenarios.
+Design Patterns in Modern Frameworks and Languages:
+
+Many frameworks (e.g., .NET, Spring) and languages (e.g., Java, Python) have built-in support for common design patterns, which this module explores.
+Students learn how these frameworks leverage design patterns and how to utilize language-specific features to implement patterns efficiently.
