@@ -9,8 +9,13 @@ Please note that some of the documents are in Spanish and others in English. Apo
 This module contains information on:
 
 🔗 Use of accent marks in capital letters.
+
 🔗 What bullet points are and how to use them (Fundéu).
+
 🔗 Enumeration (Wikilengua).
+
 🔗 Spanish Language Dictionary (RAE).
+
 🔗 Writing rules for prefixes (RAE).
+
 Additionally, it covers the stages for professionally preparing a document.
