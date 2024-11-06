@@ -19,3 +19,5 @@ This module contains information on:
 🔗 Writing rules for prefixes (RAE).
 
 Additionally, it covers the stages for professionally preparing a document.
+
+### MODULE II: ACADEMIC WRITING
