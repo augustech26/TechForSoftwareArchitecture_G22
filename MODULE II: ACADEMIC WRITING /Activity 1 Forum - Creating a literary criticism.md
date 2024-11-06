@@ -1,0 +1,7 @@
+In this video, Professor Estrella Montolío, linguist and professor of Spanish Language at the University of Barcelona, ​​highlights the importance of writing in 21st century communication, focusing on the fundamental role of language teachers in the training of children. and adolescents. Montolío emphasizes that writing has become a crucial transversal skill in today's society, especially in a context of constantly evolving information and knowledge.
+
+One of the strengths of the video is how Montolío highlights the importance of writing well, not only as a technical skill, but as a means to achieve specific communicative goals, such as to entertain or persuade. Additionally, it highlights how our writing is our image to others, which emphasizes the importance of taking care of the way we express ourselves in writing.
+
+On the other hand, the video could have been more effective in providing concrete examples of how teachers can teach writing effectively in different contexts. Furthermore, although it is mentioned that the process of learning to write is long and continuous, it does not delve into specific strategies to continue improving this skill throughout life.
+
+In summary, in the video Montolío highlights the importance of writing as a fundamental skill in today's society, but could have been more effective by providing concrete examples and practical strategies to improve writing in different contexts and throughout life.
