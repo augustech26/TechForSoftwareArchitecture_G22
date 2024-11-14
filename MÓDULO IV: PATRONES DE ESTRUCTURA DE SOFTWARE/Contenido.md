@@ -1,0 +1,3 @@
+## MÓDULO IV: PATRONES DE ESTRUCTURA DE SOFTWARE 🎓
+
+Aquí aprenderás sobre los patrones de estructura que organizan los componentes internos de una aplicación, facilitando su crecimiento y sostenibilidad. Nos enfocaremos en patrones como MVC (Model-View-Controller), Layered Architecture y Microservices, que son fundamentales para diseñar sistemas escalables y organizados. Este módulo incluye ejemplos prácticos de cómo elegir y aplicar estos patrones según el tipo de proyecto. Al finalizar, tendrás una comprensión clara de cómo estructurar tus aplicaciones para mejorar su rendimiento, adaptabilidad y eficiencia en desarrollo y mantenimiento.

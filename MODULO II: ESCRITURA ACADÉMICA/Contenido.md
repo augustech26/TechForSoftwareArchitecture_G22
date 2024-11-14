@@ -1,0 +1,3 @@
+## MODULO II: ESCRITURA ACADÉMICA 🎓
+
+Este módulo te guiará en las bases de la escritura académica, enfocándose en cómo estructurar y redactar documentos que cumplan con los estándares de investigación y rigor académico. Aprenderás sobre la organización lógica de las ideas, la cita y referencia de fuentes para respaldar tu trabajo y el uso de argumentos claros y objetivos. Además, profundizaremos en técnicas para realizar un análisis crítico y revisión de literatura, esencial para desarrollar ensayos, tesis, o artículos que sigan estándares académicos. Al final, tendrás herramientas y ejercicios para mejorar la claridad y cohesión en la presentación de información compleja.

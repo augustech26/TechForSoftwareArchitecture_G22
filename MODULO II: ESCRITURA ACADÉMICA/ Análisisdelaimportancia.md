@@ -1,0 +1,8 @@
+
+En este vídeo, la catedrática Estrella Montolío, lingüista y profesora de Lengua Española en la Universidad de Barcelona, destaca la importancia de la escritura en la comunicación del siglo XXI, enfocándose en el papel fundamental de los docentes de lengua en la formación de los niños y adolescentes. Montolío subraya que la escritura se ha convertido en una habilidad transversal crucial en la sociedad actual, especialmente en un contexto de información y conocimiento en constante evolución.
+
+Una de las fortalezas del vídeo es cómo Montolío destaca la importancia de escribir bien, no solo como una habilidad técnica, sino como un medio para lograr objetivos comunicativos específicos, como entretener o persuadir. Además, resalta cómo nuestra escritura es nuestra imagen ante los demás, lo que enfatiza la importancia de cuidar la forma en que nos expresamos por escrito.
+
+Por otro lado, el vídeo podría haber sido más efectivo al proporcionar ejemplos concretos de cómo los docentes pueden enseñar a escribir de manera efectiva en diferentes contextos. Además, aunque se menciona que el proceso de aprendizaje de la escritura es largo y continuo, no se profundiza en estrategias específicas para seguir mejorando en esta habilidad a lo largo de la vida.
+
+En resumen, en el vídeo Montolío destaca la importancia de la escritura como una habilidad fundamental en la sociedad actual, pero podría haber sido más efectivo al proporcionar ejemplos concretos y estrategias prácticas para mejorar la escritura en diferentes contextos y a lo largo de la vida.

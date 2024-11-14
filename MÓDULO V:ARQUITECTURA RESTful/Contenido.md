@@ -1,0 +1,3 @@
+## MÓDULO V:ARQUITECTURA RESTful  🎓
+
+Este módulo está dedicado a la arquitectura RESTful, una de las más utilizadas para crear servicios web escalables y eficientes. Comenzaremos con los principios básicos de REST y la estructura de las solicitudes HTTP (GET, POST, PUT, DELETE). Aprenderás a diseñar y documentar una API RESTful siguiendo buenas prácticas, como el uso de recursos, rutas y manejo de errores. También exploraremos la seguridad y autenticación en APIs RESTful, así como los formatos de datos comunes como JSON. Al final, tendrás las bases para crear servicios web robustos, escalables y de fácil integración.
